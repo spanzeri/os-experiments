@@ -4,9 +4,9 @@
 
 This is a learning project where I have fun writing a barebone x86_64 OS.
 
-It's neither meant as a tutorial nor has a product in any way, it's simply for fun and personal experimantion.
+It's neither meant as a tutorial nor as a finished product in any way; it's a sandbox for me to experiment in.
 
-If you like the idea and want to try it for yourself, I recommend following some of the tutorial listed in the next section.
+If you like the idea and want to try it for yourself, I recommend following one or more of the tutorials listed in the next section.
 
 ## Sources
 
