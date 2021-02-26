@@ -11,8 +11,8 @@ If you like the idea and want to try it for yourself, I recommend following one 
 ## Sources
 
 From a combination of tutorials like:
- - [https://github.com/davidcallanan/os-series](CodePulse Os series)
- - [https://github.com/cfenollosa/os-tutorial](OS tutorials)
+ - [CodePulse OS series](https://github.com/davidcallanan/os-series)
+ - [OS tutorials](https://github.com/cfenollosa/os-tutorial)
 
 ## Setup
 
